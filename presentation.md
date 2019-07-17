@@ -1,7 +1,3 @@
-# presentation
-Mozilla foundation presentation(Eng)
-
-
 a link to youtube https://youtu.be/i30Dn27qdv0
 
 a link to reveal presentation  https://ihopeyouwin.github.io/reveal.js/index.html
